@@ -1,0 +1,16 @@
+{
+    "name": "taeon/ionxtcore",
+    "description": "Core libraries for ioNxt",
+    "keywords": ["php"],
+    "homepage": "https://github.com/Taeon/ioNxtCore",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pat Fox",
+            "homepage": "https://github.com/Taeon"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    }
+}
